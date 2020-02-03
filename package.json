@@ -1,0 +1,55 @@
+{
+  "name": "filecoin-network",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.7.6",
+    "axios": "^0.19.0",
+    "core-js": "^3.3.2",
+    "echarts": "^4.4.0",
+    "echarts-gl": "^1.1.1",
+    "element-ui": "^2.12.0",
+    "geojson": "^0.5.0",
+    "giojs": "^2.2.2",
+    "iview": "^3.5.4",
+    "jquery": "^3.4.1",
+    "json5": "^2.1.1",
+    "normalize.css": "^8.0.1",
+    "parse-json": "^5.0.0",
+    "qs": "^6.9.1",
+    "three": "^0.111.0",
+    "three-css2drender": "^1.0.0",
+    "three-obj-mtl-loader": "^1.0.3",
+    "three-orbit-controls": "^82.1.0",
+    "tween": "^0.9.0",
+    "vant": "^2.3.3",
+    "vue": "^2.6.10",
+    "vue-baidu-map": "^0.21.22",
+    "vue-i18n": "^8.15.3",
+    "vue-router": "^3.1.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-router": "^4.0.0",
+    "@vue/cli-plugin-vuex": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
