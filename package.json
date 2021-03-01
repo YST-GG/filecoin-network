@@ -21,7 +21,7 @@
     "normalize.css": "^8.0.1",
     "parse-json": "^5.0.0",
     "qs": "^6.9.1",
-    "three": "^0.111.0",
+    "three": "^0.125.0",
     "three-css2drender": "^1.0.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbit-controls": "^82.1.0",
